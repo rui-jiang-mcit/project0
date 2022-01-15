@@ -1,0 +1,3 @@
+Hello from VS code.
+My name is Rui Jiang. I want to learn anything that the professor would like
+to teach. I don't really have an expectation...
